@@ -74,11 +74,5 @@ npm start  # http://localhost:3000
 Fork, PR improvements (e.g., YOLOv8, S3 storage, auth).
 
 ## 📝 Author
-**SuMit SinGh** - Full-stack ML Engineer  
-[email protected]  # Update yours
-
-## 📄 License
-MIT - Free for commercial/resume use.
-
-**Deployed?** Render/Heroku easy. Star if useful! ⭐
+**SuMit SinGh** 
 
