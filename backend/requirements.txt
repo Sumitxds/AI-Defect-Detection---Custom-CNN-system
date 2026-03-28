@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow
+numpy
+pillow
+werkzeug
+pandas
+python-dotenv==1.0.1
